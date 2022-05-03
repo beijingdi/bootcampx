@@ -1,0 +1,6 @@
+//W5D1
+DROP TABLE IF EXISTS <name of table> // so that the script is reusable
+ALTER TABLE
+BIGINT is good for id when working with big data
+\d+ show all database information within directory
+drop delete the entire table while delete only deletes the contents
